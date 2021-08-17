@@ -1,0 +1,1 @@
+web: gunicorn P7_dashboard_pyplot_dash_v2:server
