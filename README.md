@@ -62,7 +62,7 @@ The API is made of 3 routes:
 `model_lgbm.pkl` for a specific customer. `<int:customer_id>` corresponding to the unique id of the customer.
 
 ## 5. Dashboard 
-The dashboard created for the project can be visited at this URL --> https://p7-oc-dashboard.herokuapp.com/. Please not 
+The dashboard created for the project can be visited at this URL --> https://p7-oc-dashboard.herokuapp.com/. Please note 
 than this dashboard is deployed on a free licence Heroku servor and may take several seconds to load.
 
 The dashboard is made of 5 parts:
@@ -121,7 +121,7 @@ are stored in the folder `P7_functions`.
  5. Heroku - deploy the app: to deploy the API or the dashboard locally after create a new app via 
  [heroku.com](https://dashboard.heroku.com/apps), the following commands have to be runned in the terminal:
  
->`$ cd name_of_the_folder_where_is_your_app`
+>`$ cd name_of_the_folder_where_your_app_is`
 >
 >`$ git init`
 >
