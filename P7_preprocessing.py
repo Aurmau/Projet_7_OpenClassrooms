@@ -5,7 +5,7 @@ from P7_functions.P7_functions_data_for_API import *
 
 # Preprocessing new customer
 data_preprocessing(name_file_in="application_test.csv",
-                   name_file_out="data_new_customer.csv", path_folder_out="P7_API",
+                   name_file_out="data_new_customer.csv", path_folder_out="P7_API\\data",
                    sampling=1, return_df=False, export_csv=True,
                    name_data_directory="P7_data", name_python_file="P7_preprocessing.py")
 
