@@ -76,10 +76,10 @@ customers.
 ## 6. Project architecture
 * **P7_API**: *Files used to deployed the API with Heroku*
     * data
-     * data_new_customer.csv
-     * model_lgbm.pkl
+        * data_new_customer.csv
+        * model_lgbm.pkl
     * functions
-     * P7_functions_API.py
+        * P7_functions_API.py
     * P7_API.py
     * Procfile
     * Procfile.windows
